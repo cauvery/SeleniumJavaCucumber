@@ -1,2 +1,2 @@
 # SeleniumJavaCucumber
-Selenium Java Cucumber Junit Example Project with Extent reports
+Selenium Java Cucumber Junit Maven Project with Extent reports
